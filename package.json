@@ -1,0 +1,10 @@
+{
+  "name": "rpi-node-gpio-example",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Node.js gpio app in docker",
+  "author": "james baile",
+  "dependencies": {
+    "rpi-gpio": "0.7.0"
+  }
+}
